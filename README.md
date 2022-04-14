@@ -11,6 +11,8 @@ web3资料汇集整理👏🏻
 
 《打造超级区块链社区 建设、运营、实践》
 
+《元宇宙基石：Web3.0与分布式存储》
+
 
 #### 技术类
 《Node.js区块链开发》
@@ -37,6 +39,8 @@ web3资料汇集整理👏🏻
 
 ## 开源项目
 [web3.js](https://github.com/ChainSafe/web3.js)
+
+[web3modal](https://github.com/Web3Modal/web3modal)
 
 ## 行业报告
 [互联网传媒行业深度报告：Web3.0初探.pdf](https://github.com/fltenwall/web3-awesome/blob/main/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A-Industrial%20Report/%E4%BA%92%E8%81%94%E7%BD%91%E4%BC%A0%E5%AA%92%E8%A1%8C%E4%B8%9A%E6%B7%B1%E5%BA%A6%E6%8A%A5%E5%91%8A%EF%BC%9AWeb3.0%E5%88%9D%E6%8E%A2.pdf)
