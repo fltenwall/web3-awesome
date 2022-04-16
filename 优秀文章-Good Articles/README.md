@@ -8,7 +8,9 @@
 
 [一文读懂 Web3：互联网发展的新时代还是骗局？](https://mp.weixin.qq.com/s/uATmDWPaZVQpOCT-qOjgfw)
 
-[当我们谈Web3.0时，我们谈些什么](https://www.jianshu.com/p/58642fd43815)
+### 思考篇
+
+[当我们谈Web3.0时，我们谈些什么](https://www.jianshu.com/p/58642fd43815) [备份](https://github.com/fltenwall/web3-awesome/blob/main/%E4%BC%98%E7%A7%80%E6%96%87%E7%AB%A0-Good%20Articles/%E6%80%9D%E8%80%83%E7%AF%87/%E5%BD%93%E6%88%91%E4%BB%AC%E8%B0%88Web3.0%E6%97%B6%EF%BC%8C%E6%88%91%E4%BB%AC%E8%B0%88%E4%BA%9B%E4%BB%80%E4%B9%88.md)
 
 
 ### 深入篇
