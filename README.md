@@ -26,6 +26,7 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 《区块链+大数据：突破瓶颈，开启智能新时代》
 
+《解码元宇宙 未来经济与投资》 韩
 
 #### 技术类
 《Node.js区块链开发》
@@ -48,16 +49,47 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 《一天搞懂区块链》
 
+《极简元宇宙》 韩
 
+《智慧空间 解密 Web 3.0》 美
+
+《虚拟币货币革命 比特币只是开始》 日
+
+《一本书读懂元宇宙》 韩
+
+### 学术论文
+
+[中本聪比特币论文-英](https://bitcoin.org/bitcoin.pdf)
+
+[以太坊白皮书-支持多语言](https://goo.gl/XXZddT)
 
 
 ## 视频课程
 ### 入门课程
 [学堂在线-区块链和加密数字货币](https://www.xuetangx.com/course/thu12021002731/10333144?channel=i.area.learn_title)
 
+[油管-如何在2022年成为一个高收入的区块链开发者-英文](https://www.youtube.com/watch?v=uGPC9wNTBbw&t=12s)
+
+[油管-比特币是如何运作的-英](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+
+### 油管上的数学频道
+
+[Mathologer](https://www.youtube.com/c/Mathologer)
+
+[PBS Infinite Series](https://www.youtube.com/c/pbsinfiniteseries)
+
+[Numberphile](https://www.youtube.com/c/numberphile)
+
+[Welch Labs](https://www.youtube.com/c/WelchLabsVideo)
+
 ## 优秀文章
 ### 扫盲篇
 [学堂在线-区块链和加密数字货币](https://www.xuetangx.com/course/thu12021002731/10333144?channel=i.area.learn_title)
+
+### 深入篇
+
+[How the Bitcoin protocol actually works](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/) 从原理上介绍比特币协议实际上是如何工作的
+
 
 
 ## 开源项目
@@ -107,3 +139,9 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 ## 社区交流
 
 [登链社区](https://learnblockchain.cn/)
+=======
+
+## 网站合集
+
+[https://protocol.ai/](https://protocol.ai/)
+
