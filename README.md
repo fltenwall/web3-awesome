@@ -5,7 +5,7 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 ### 开源在线
 
-[区块链技术指南](https://yeasy.gitbook.io/blockchain_guide/06_bitcoin/sidechain)
+[区块链技术指南](https://yeasy.gitbook.io/blockchain_guide/02_overview/definition)
 
 [区块链钱包从入门到精通](https://github.tokenpocket.pro/BlockchainGuideSeries/)
 
