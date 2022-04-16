@@ -116,7 +116,7 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 [博学谷2021年区块链课程](https://www.bilibili.com/video/BV16b4y1p7W8?p=4)
 
 [火链学院2019年《Go语言+区块链工程师》](https://www.bilibili.com/video/BV1pv411z7RK?spm_id_from=333.337.search-card.all.click)
-### 
+
 
 ### 油管上的数学频道
 
