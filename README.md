@@ -5,15 +5,15 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 ### 开源在线
 
-[区块链技术指南](https://yeasy.gitbook.io/blockchain_guide/02_overview/definition)
+[区块链技术指南](https://yeasy.gitbook.io/blockchain_guide/02_overview/definition) 【推荐】
 
-[区块链钱包从入门到精通](https://github.tokenpocket.pro/BlockchainGuideSeries/)
+[区块链钱包从入门到精通](https://github.tokenpocket.pro/BlockchainGuideSeries/) 【推荐】
 
 [廖雪峰-区块链教程](https://www.liaoxuefeng.com/wiki/1207298049439968)
 
 [区块链技术-智能合约Solidity编程语言](https://solidity.tryblockchain.org/)
 
-[区块链与密码学（32学时）武汉大学-课件](https://github.com/fltenwall/web3-awesome/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%8E%E5%AF%86%E7%A0%81%E5%AD%A6%EF%BC%8832%E5%AD%A6%E6%97%B6%EF%BC%89%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6-%E8%AF%BE%E4%BB%B6)
+[区块链与密码学（32学时）武汉大学-课件](https://github.com/fltenwall/web3-awesome/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%8E%E5%AF%86%E7%A0%81%E5%AD%A6%EF%BC%8832%E5%AD%A6%E6%97%B6%EF%BC%89%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6-%E8%AF%BE%E4%BB%B6) 【推荐】
 
 [元宇宙-数字产权-区块链](https://chain.baklib-free.com/)
 
@@ -89,7 +89,7 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 ### 大学公开课
 
-[北京大学肖臻老师《区块链技术与应用》公开课](https://www.bilibili.com/video/BV1Vt411X7JF?spm_id_from=333.337.search-card.all.click)
+[北京大学肖臻老师《区块链技术与应用》公开课](https://www.bilibili.com/video/BV1Vt411X7JF?spm_id_from=333.337.search-card.all.click) 【推荐】
 
 [【麻省理工大学公开课】区块链与货币](https://www.bilibili.com/video/BV1sL411N7Mm?spm_id_from=333.337.search-card.all.click)
 
