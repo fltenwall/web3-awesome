@@ -11,6 +11,8 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [廖雪峰-区块链教程](https://www.liaoxuefeng.com/wiki/1207298049439968)
 
+[区块链技术-智能合约Solidity编程语言](https://solidity.tryblockchain.org/)
+
 ### 出版书籍📚
 
 #### 商业类
@@ -100,6 +102,8 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 ## 行业报告
 [互联网传媒行业深度报告：Web3.0初探.pdf](https://github.com/fltenwall/web3-awesome/blob/main/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A-Industrial%20Report/%E4%BA%92%E8%81%94%E7%BD%91%E4%BC%A0%E5%AA%92%E8%A1%8C%E4%B8%9A%E6%B7%B1%E5%BA%A6%E6%8A%A5%E5%91%8A%EF%BC%9AWeb3.0%E5%88%9D%E6%8E%A2.pdf)
 
+[2022-2027年中国区块链行业市场前瞻与投资战略规划分析报告.pdf]()
+
 ## 法律法规
 
 [区块链类型化的法理解读与规制思路](http://iolaw.cssn.cn/zxzp/202007/t20200721_5158446.shtml)
@@ -119,6 +123,8 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 [链节点](https://www.chainnode.com/)
 
 [链门户](http://www.lianmenhu.com/)
+
+[律动](https://www.theblockbeats.info/)
 
 
 
@@ -140,7 +146,9 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [登链社区](https://learnblockchain.cn/)
 
+## 公司产品
+
 ## 网站合集
 
-[https://protocol.ai/](https://protocol.ai/)
+[protocol.ai](https://protocol.ai/)
 
