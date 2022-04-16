@@ -170,11 +170,15 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 #### parity全家桶
 
 [parity-ethereum](https://github.com/paritytech/parity-ethereum)
+
 [parity-zcash](https://github.com/paritytech/parity-zcash)
+
 [parity-bitcoin](https://github.com/paritytech/parity-bitcoin)
+
 [shasper](https://github.com/paritytech/shasper)
 
 ## 行业报告
+
 [互联网传媒行业深度报告：Web3.0初探.pdf](https://github.com/fltenwall/web3-awesome/blob/main/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A-Industrial%20Report/%E4%BA%92%E8%81%94%E7%BD%91%E4%BC%A0%E5%AA%92%E8%A1%8C%E4%B8%9A%E6%B7%B1%E5%BA%A6%E6%8A%A5%E5%91%8A%EF%BC%9AWeb3.0%E5%88%9D%E6%8E%A2.pdf)
 
 [2022-2027年中国区块链行业市场前瞻与投资战略规划分析报告.pdf](https://github.com/fltenwall/web3-awesome/blob/main/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A-Industrial%20Report/2022-2027%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%9D%97%E9%93%BE%E8%A1%8C%E4%B8%9A%E5%B8%82%E5%9C%BA%E5%89%8D%E7%9E%BB%E4%B8%8E%E6%8A%95%E8%B5%84%E6%88%98%E7%95%A5%E8%A7%84%E5%88%92%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A_%E7%9B%AE%E5%BD%95.pdf)
