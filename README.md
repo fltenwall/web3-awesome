@@ -136,6 +136,10 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [当区块链遇上Rust](https://rustcc.cn/article?id=289da7be-19ce-49fe-af6d-3a7946404ca6)
 
+[一文读懂 Web3：互联网发展的新时代还是骗局？](https://mp.weixin.qq.com/s/uATmDWPaZVQpOCT-qOjgfw)
+
+[当我们谈Web3.0时，我们谈些什么](https://www.jianshu.com/p/58642fd43815)
+
 
 ### 深入篇
 
