@@ -153,11 +153,15 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 ## 开源项目
 
-### JavaScript区块链项目
+### JavaScript web3 项目
 
 [web3.js](https://github.com/ChainSafe/web3.js)
 
 [web3modal](https://github.com/Web3Modal/web3modal)
+
+[ethers.js](https://github.com/ethers-io/ethers.js)
+
+[web3-react](https://github.com/NoahZinsmeister/web3-react)
 
 ### Rust区块链项目
 
