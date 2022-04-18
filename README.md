@@ -140,6 +140,8 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [当我们谈Web3.0时，我们谈些什么](https://www.jianshu.com/p/58642fd43815) [【文章备份】](https://github.com/fltenwall/web3-awesome/blob/main/%E4%BC%98%E7%A7%80%E6%96%87%E7%AB%A0-Good%20Articles/%E6%80%9D%E8%80%83%E7%AF%87/%E5%BD%93%E6%88%91%E4%BB%AC%E8%B0%88Web3.0%E6%97%B6%EF%BC%8C%E6%88%91%E4%BB%AC%E8%B0%88%E4%BA%9B%E4%BB%80%E4%B9%88.md)
 
+[详解区块链](https://developer.aliyun.com/article/543413#slide-8)
+
 
 ### 深入篇
 
@@ -263,4 +265,52 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 ## 网站合集
 
 [protocol.ai](https://protocol.ai/)
+
+## 相关技术
+
+### 密码学
+
+#### 视频课程
+
+[可汗学院 密码学](https://zh.khanacademy.org/computing/computer-science/cryptography)
+
+[密码学基础_西安邮电大学_中国大学MOOC(慕课)](https://www.icourse163.org/course/XIYOU-1206460819)
+
+[现代密码学_电子科技大学_中国大学MOOC(慕课)](https://www.icourse163.org/course/UESTC-1003046001?tid=1206801213#/info)
+
+#### 在线资源
+
+[W3C 密码学教程](https://www.w3cschool.cn/moderncryptography/)
+
+[密码学 - 在线工具网](https://wtool.com.cn/ciphers)
+
+[v5 密码学教程](http://www.vue5.com/cryptography/cryptography.html)
+
+#### 出版书籍
+
+《人人可懂的密码学》 美
+
+《密码学：C/C++语言实现》 黑皮书 德
+
+《应用密码学 协议、算法与C源程序》 黑皮书 美
+
+《现代密码学及其应用》 黑皮书 美
+
+《Python密码学编程 第二版》 美
+
+《深入浅出密码学：常用加密技术原理与应用》 美
+
+《严肃的密码学 实用现代加密技术》 瑞士
+
+《图解密码技术》 日
+
+《Python密码学编程》美
+
+《深入浅出密码学》 美
+
+### 网络通信
+
+
+### 开发技术
+
 
