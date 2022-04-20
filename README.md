@@ -143,6 +143,11 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 [详解区块链](https://developer.aliyun.com/article/543413#slide-8)
 
 
+### 技术篇
+
+[定义web3的技术栈](https://github.com/fltenwall/web3-school/blob/main/%E5%AE%9A%E4%B9%89web3%E7%9A%84%E6%8A%80%E6%9C%AF%E6%A0%88.md)
+
+
 ### 深入篇
 
 [How the Bitcoin protocol actually works](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/) 从原理上介绍比特币协议实际上是如何工作的
