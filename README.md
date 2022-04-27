@@ -35,8 +35,17 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 《解码元宇宙 未来经济与投资》 韩
 
+《区块链重构规则》美
+
+《区块链：构建数字经济新世界》
+
 #### 技术类
+
 《Node.js区块链开发》
+
+《精通以太坊：开发智能合约和去中心化应用》 【推荐】
+
+《TypeScript入门与区块链项目实战》 美、俄
 
 《区块链最强教科书》
 
@@ -49,6 +58,16 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 《从零开始自己动手写区块链》
 
 《区块链开发 从入门到精通 以太坊+超级账本》
+
+《区块链安全理论与实践》 美
+
+《区块链安全入门与实战》
+
+《区块链安全技术指南》
+
+《区块链安全实战》 美
+
+
 
 《[区块链-通往资产自由之路.epub](https://github.com/fltenwall/web3-awesome/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E5%87%BA%E7%89%88%E4%B9%A6%E7%B1%8D/%E5%8C%BA%E5%9D%97%E9%93%BE-%E9%80%9A%E5%BE%80%E8%B5%84%E4%BA%A7%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF.epub)》
 
@@ -65,6 +84,12 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 《虚拟币货币革命 比特币只是开始》 日
 
 《一本书读懂元宇宙》 韩
+
+《区块链进化史：26个故事将透区块链前世今生》
+
+《一本书读懂Web3.0 区块链、NFT\元宇宙和DAO》
+
+《区块链 元宇宙的基石》
 
 ### 学术论文
 
@@ -146,6 +171,8 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 ### 技术篇
 
 [定义web3的技术栈](https://github.com/fltenwall/web3-school/blob/main/%E5%AE%9A%E4%B9%89web3%E7%9A%84%E6%8A%80%E6%9C%AF%E6%A0%88.md)
+
+[以太坊的JavaScript API —— web3.js](https://juejin.cn/post/7088716205984317471)
 
 
 ### 深入篇
@@ -400,6 +427,16 @@ https://github.com/erowell/web3-learn
 
 ## 行业资讯
 
+[coindesk](https://www.coindesk.com/)
+
+[cointelegraph](https://cointelegraph.com/)
+
+[巴比特](https://www.8btc.com/)
+
+[律动](https://www.theblockbeats.info/)
+
+--------------------------------------------------------------------
+
 [区块链日报](https://www.trzrb.com/)
 
 [鸵鸟区块链](https://www.tuoniaox.com/)
@@ -408,16 +445,11 @@ https://github.com/erowell/web3-learn
 
 [链门户](http://www.lianmenhu.com/)
 
-[律动](https://www.theblockbeats.info/)
-
 [鸵鸟区块链 - 数字经济技术及资讯平台](https://www.tuoniaox.com/)
 
 [PANews - 区块链新闻资讯](https://www.panewslab.com/zh/index.html)
 
 [优源码-区块链](https://netfreeman.com/)
-
-[巴比特](https://www.8btc.com/)
-
 
 
 ## 工具站点
