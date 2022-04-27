@@ -73,6 +73,12 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 《[区块链-通往资产自由之路.epub](https://github.com/fltenwall/web3-awesome/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E5%87%BA%E7%89%88%E4%B9%A6%E7%B1%8D/%E5%8C%BA%E5%9D%97%E9%93%BE-%E9%80%9A%E5%BE%80%E8%B5%84%E4%BA%A7%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF.epub)》
 
+#### 其他
+
+[《哈耶克：货币的非国家化》](https://github.com/fltenwall/web3-awesome/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E5%87%BA%E7%89%88%E4%B9%A6%E7%B1%8D/%E5%93%88%E8%80%B6%E5%85%8B%EF%BC%9A%E8%B4%A7%E5%B8%81%E7%9A%84%E9%9D%9E%E5%9B%BD%E5%AE%B6%E5%8C%96.pdf)
+
+[精通比特币](https://github.com/fltenwall/web3-awesome/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E5%87%BA%E7%89%88%E4%B9%A6%E7%B1%8D/%E7%B2%BE%E9%80%9A%E6%AF%94%E7%89%B9%E5%B8%81.pdf) 非出版物
+
 ### 科普类
 
 《区块链通识课50讲》
