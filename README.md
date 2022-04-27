@@ -43,7 +43,7 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 《Node.js区块链开发》
 
-《精通以太坊：开发智能合约和去中心化应用》 【推荐】
+[《精通以太坊：开发智能合约和去中心化应用》](https://github.com/fltenwall/web3-awesome/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E5%87%BA%E7%89%88%E4%B9%A6%E7%B1%8D/%E7%B2%BE%E9%80%9A%E4%BB%A5%E5%A4%AA%E5%9D%8A-%E4%B8%AD%E6%96%87.pdf) 【推荐】
 
 《TypeScript入门与区块链项目实战》 美、俄
 
