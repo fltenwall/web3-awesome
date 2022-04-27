@@ -17,7 +17,23 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [元宇宙-数字产权-区块链](https://chain.baklib-free.com/)
 
+[以太坊维基百科](https://eth.wiki/) 英文
 
+[以太坊知识库](https://learnblockchain.cn/eth/) 【推荐】
+
+[Eth2 展望和分享](https://hackmd.io/@benjaminion)
+
+[《以太坊的指南针》](https://ethbook.abyteahead.com/index.html) 入门
+
+[以太坊中文文档](https://www.kancloud.cn/qq393855529/ethereum/837511)
+
+[以太坊开发文档](https://ethereum.org/zh/developers/docs/)
+
+[Solidity中文文档](https://learnblockchain.cn/docs/solidity/index.html)
+
+[Solidity开发智能合约实例](https://solidity-by-example.org/) 英文
+
+[编游戏的同时学习以太坊 DApp 开发](https://cryptozombies.io/zh/)
 ### 出版书籍📚
 
 #### 商业类
@@ -69,6 +85,17 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 《区块链安全实战》 美
 
+《区块链架构之美——从比特币、以太坊、超级账本看区块链架构设计》
+
+《深入理解以太坊》
+
+《深入浅出区块链核心技术与项目分析》
+
+《深入以太坊智能合约开发》
+
+《区块链：以太坊 DApp 开发实战》
+
+《区块链：以太坊 DApp 开发实战》
 
 
 《[区块链-通往资产自由之路.epub](https://github.com/fltenwall/web3-awesome/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E5%87%BA%E7%89%88%E4%B9%A6%E7%B1%8D/%E5%8C%BA%E5%9D%97%E9%93%BE-%E9%80%9A%E5%BE%80%E8%B5%84%E4%BA%A7%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF.epub)》
@@ -77,7 +104,7 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [《哈耶克：货币的非国家化》](https://github.com/fltenwall/web3-awesome/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E5%87%BA%E7%89%88%E4%B9%A6%E7%B1%8D/%E5%93%88%E8%80%B6%E5%85%8B%EF%BC%9A%E8%B4%A7%E5%B8%81%E7%9A%84%E9%9D%9E%E5%9B%BD%E5%AE%B6%E5%8C%96.pdf)
 
-[精通比特币](https://github.com/fltenwall/web3-awesome/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E5%87%BA%E7%89%88%E4%B9%A6%E7%B1%8D/%E7%B2%BE%E9%80%9A%E6%AF%94%E7%89%B9%E5%B8%81.pdf) 非出版物
+[《精通比特币》](https://github.com/fltenwall/web3-awesome/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E5%87%BA%E7%89%88%E4%B9%A6%E7%B1%8D/%E7%B2%BE%E9%80%9A%E6%AF%94%E7%89%B9%E5%B8%81.pdf) 非出版物
 
 ### 科普类
 
@@ -119,6 +146,12 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 [油管-如何在2022年成为一个高收入的区块链开发者-英文](https://www.youtube.com/watch?v=uGPC9wNTBbw&t=12s)
 
 [油管-比特币是如何运作的-英](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
+
+### 技术课程
+
+[Solidity 开发合集](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA) Youtube
+
+[系统性的合约开发教程](https://www.youtube.com/c/%E7%90%86%E6%83%B3%E5%8C%BA%E5%9D%97%E9%93%BE%E5%AD%A6%E9%99%A2) Youtube
 
 ### 大学公开课
 
@@ -435,9 +468,11 @@ https://github.com/erowell/web3-learn
 
 ## 行业资讯
 
-[coindesk](https://www.coindesk.com/)
+[以太坊基金会博客](https://blog.ethereum.org/) 英文
 
-[cointelegraph](https://cointelegraph.com/)
+[coindesk](https://www.coindesk.com/) 英文
+
+[cointelegraph](https://cointelegraph.com/) 英文
 
 [巴比特](https://www.8btc.com/)
 
@@ -474,10 +509,38 @@ https://github.com/erowell/web3-learn
 
 [国家区块链漏洞库](https://bc.cnvd.org.cn/)
 
+[Etherscan 区块浏览器 支持中文](https://etherscan.io/)
+
+[Ethplorer 区块浏览器 支持中文](https://ethplorer.io/)
+
+[Blockchair 区块浏览器 支持中文](https://blockchair.com/ethereum)
+
+[Blockscout 区块链浏览器 支持中文](https://blockscout.com/)
+
+[OKLink 欧科云链](https://www.oklink.com/zh-cn/eth)
+
+[beaconscan 区块链浏览器 支持中文](https://beaconscan.com/)
+
+[ethscan 区块链浏览器](https://ethscan.org/)
 
 ## 社区交流
 
 [登链社区](https://learnblockchain.cn/)
+
+[gitter](https://gitter.im/ethereum/home) 在线交流频道
+
+[reddit ethereum](https://www.reddit.com/r/ethereum/) 技术讨论
+
+[stackexchange](https://ethereum.stackexchange.com/) 以太坊的stackoverflow
+
+[以太坊社区网络](https://www.ethereum.cn/) 
+
+[mirror](https://mirror.xyz/) 英文
+
+[medium](https://medium.com/) 英文
+
+
+
 
 ## 行业研究
 
