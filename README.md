@@ -34,6 +34,17 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 [Solidity开发智能合约实例](https://solidity-by-example.org/) 英文
 
 [编游戏的同时学习以太坊 DApp 开发](https://cryptozombies.io/zh/)
+
+[慢雾科技的安全技术探究](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzU4ODQ3NTM2OA==&action=getalbum&album_id=1378653641065857025&scene=173&from_msgid=2247494336&from_itemidx=1&count=3&nolastread=1#wechat_redirect) 分享漏洞分析的报告
+
+[immunefi 智能合约安全的教程](智能合约安全的教程) 英文
+
+[用Go来做以太坊开发](https://goethereumbook.org/zh/)
+
+[以太坊设计与实现](https://learnblockchain.cn/books/geth/) 【进阶推荐】
+
+
+
 ### 出版书籍📚
 
 #### 商业类
@@ -216,6 +227,10 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 [以太坊的JavaScript API —— web3.js](https://juejin.cn/post/7088716205984317471)
 
 
+### 学习路线篇
+
+[以太坊学习路线和资源汇总](https://learnblockchain.cn/article/3682)
+
 ### 深入篇
 
 [How the Bitcoin protocol actually works](https://michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/) 从原理上介绍比特币协议实际上是如何工作的
@@ -310,7 +325,13 @@ https://github.com/ethereum/remix-ide
 
 [ethers.js](https://github.com/ethers-io/ethers.js)
 
-[web3-react](https://github.com/NoahZinsmeister/web3-react)
+[web3-react](https://github.com/NoahZinsmeister/web3-react) 为前端 React 提供的 DAPP 开发组件
+
+[Eth App](https://github.com/paulrberg/create-eth-app) 大量的创建 DApp 的模板
+
+[Scaffold-Eth](https://github.com/austintgriffith/scaffold-eth) Ethers.js + Hardhat + React 的 DApp 模板
+
+[Drizzle](https://github.com/trufflesuite/drizzle) 擅长大量状态管理的前端库
 
 ### Rust区块链项目
 
@@ -349,6 +370,23 @@ https://paritytech.github.io/ink-docs/why-rust-for-smart-contracts/
 [parity-bitcoin](https://github.com/paritytech/parity-bitcoin)
 
 [shasper](https://github.com/paritytech/shasper)
+
+
+### java区块链项目
+
+[Web3j](https://github.com/web3j/web3j) java的以太坊API
+
+### Python区块链项目
+
+[Web3.py](https://github.com/ethereum/web3.py) Python的以太坊API
+
+### Go区块链项目
+
+[ethereum/go-ethereum](https://github.com/search?q=go-ethereum) 官方Golang实现的以太坊协议
+
+[go-ethereum-code-analysis](分析go-ethereum源码) 停止更新于五年前
+
+[geth-analyze](https://github.com/learnerLj/geth-analyze) go-ethereum源码分析
 
 
 ### 以太坊 
@@ -401,6 +439,37 @@ https://github.com/ethereum/remix
 
 https://github.com/trufflesuite/truffle
 
+truffle插件：
+
+[truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - 验证 Etherscan 上的特定地址的智能合约代码是否和本地相同
+[truffle -security](https://github.com/ConsenSys/truffle-security) - 对智能合约运行 MythX 安全分析。
+[truffle-contract-size](https://github.com/IoBuilders/truffle-contract-size) - 以千字节显示智能合约的大小。
+[truffle-plugin-abigen](https://github.com/ChainSafe/truffle-plugin-abigen) - 生成与 Geth 兼容的abigen数据，用于为以太坊合约构建 Golang 绑定
+[openzeppelin-upgrades](https://github.com/OpenZeppelin/openzeppelin-upgrades) 可升级合约插件
+[solidity-coverage](https://github.com/sc-forks/solidity-coverage) 检查测试的覆盖性。
+
+
+### 安全审计
+
+[Mythril](https://github.com/ConsenSys/mythril) 是 EVM 字节码的安全分析工具。它使用符号执行、SMT 解决和污点分析来检测各种安全漏洞。
+
+[Slither](https://github.com/crytic/slither) 是一个用 Python 3 编写的 Solidity 静态分析框架。
+
+[Manticore](https://github.com/trailofbits/manticore) 是用于分析智能合约和二进制文件的符号执行工具。
+
+[Echidna](https://github.com/crytic/echidna) 是一个 Haskell 程序，旨在对以太坊智能合约进行模糊测试/基于属性的测试。
+
+[tenderly](https://dashboard.tenderly.co/learnerL/project/forks) 是集成、开发、测试模拟的平台，支持主网分叉
+
+[EIP-1470 漏洞分类](https://swcregistry.io/)
+
+[blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) CTF 竞赛中合约安全方面的题目 英文
+
+[blocksec-ctfs](https://github.com/blockthreat/blocksec-ctfs) 找到合约漏洞的挑战
+
+[capturetheether](https://capturetheether.com/) 合约安全游戏 英文
+
+[合约漏洞赏金平台 immunefi](https://immunefi.com/) 英文
 
 ### 白皮书
 
@@ -473,6 +542,8 @@ https://github.com/erowell/web3-learn
 [coindesk](https://www.coindesk.com/) 英文
 
 [cointelegraph](https://cointelegraph.com/) 英文
+
+[rekt 发布漏洞和攻击事件资讯的平台](https://rekt.news/zh/) 支持中文
 
 [巴比特](https://www.8btc.com/)
 
@@ -603,6 +674,14 @@ https://github.com/erowell/web3-learn
 《Python密码学编程》美
 
 《深入浅出密码学》 美
+
+
+### web3方向的工作
+
+[国外岗位](https://www.devjobsscanner.com/top-paid-solidity-jobs/)
+
+
+### 面试通关
 
 ### 网络通信
 
