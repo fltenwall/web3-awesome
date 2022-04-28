@@ -333,6 +333,10 @@ https://github.com/ethereum/remix-ide
 
 [Drizzle](https://github.com/trufflesuite/drizzle) 擅长大量状态管理的前端库
 
+[Truffle](https://learnblockchain.cn/docs/truffle/) [官网](https://trufflesuite.com/) 流行 DApp 开发框架(TypeScript实现)
+
+[Ganache](https://learnblockchain.cn/2017/11/20/whatiseth/) 以太坊本地开发调试的工具(TypeScript实现)
+
 ### Rust区块链项目
 
 [exonum](https://github.com/exonum/exonum) 使用Rust开发的许可链开发框架
@@ -390,6 +394,16 @@ https://paritytech.github.io/ink-docs/why-rust-for-smart-contracts/
 
 
 ### 以太坊 
+
+[Remix](https://remix.ethereum.org/) 用来开发、编译、部署智能合约的IDE，支持浏览器IDE
+
+[solidity](https://github.com/ethereum/solidity) [官网](https://soliditylang.org/) 以太坊上开发智能合约的专用语言
+
+[Truffle](https://learnblockchain.cn/docs/truffle/) [官网](https://trufflesuite.com/) 流行 DApp 开发框架(TypeScript实现)
+
+[Ganache](https://learnblockchain.cn/2017/11/20/whatiseth/) 以太坊本地开发调试的工具(TypeScript实现)
+
+[Geth](https://geth.ethereum.org/docs/install-and-build/installing-geth) 开发以太坊时使用的客户端,提供了一个交互式命令控制台
 
 https://github.com/willitscale/learning-solidity
 
@@ -685,6 +699,11 @@ https://github.com/erowell/web3-learn
 
 ### 网络通信
 
+#### IPFS
+
+[ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) ipfs 伴侣
+
+#### IPNS
 
 ### 开发技术
 
