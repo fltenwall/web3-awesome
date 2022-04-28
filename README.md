@@ -333,11 +333,29 @@ https://github.com/ethereum/remix-ide
 
 [Drizzle](https://github.com/trufflesuite/drizzle) 擅长大量状态管理的前端库
 
-[Truffle](https://learnblockchain.cn/docs/truffle/) [官网](https://trufflesuite.com/) 流行 DApp 开发框架(TypeScript实现)
-
 [Ganache](https://learnblockchain.cn/2017/11/20/whatiseth/) 以太坊本地开发调试的工具(TypeScript实现)
 
 [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) 使用javascript的智能合约开发库
+
+----------------------------------------------------------------
+
+[Truffle](https://learnblockchain.cn/docs/truffle/) [官网](https://trufflesuite.com/) 流行 DApp 开发框架(TypeScript实现)
+
+truffle插件：
+
+[truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - 验证 Etherscan 上的特定地址的智能合约代码是否和本地相同
+
+[truffle -security](https://github.com/ConsenSys/truffle-security) - 对智能合约运行 MythX 安全分析。
+
+[truffle-contract-size](https://github.com/IoBuilders/truffle-contract-size) - 以千字节显示智能合约的大小。
+
+[truffle-plugin-abigen](https://github.com/ChainSafe/truffle-plugin-abigen) - 生成与 Geth 兼容的abigen数据，用于为以太坊合约构建 Golang 绑定
+
+[openzeppelin-upgrades](https://github.com/OpenZeppelin/openzeppelin-upgrades) 可升级合约插件
+
+[solidity-coverage](https://github.com/sc-forks/solidity-coverage) 检查测试的覆盖性。
+
+
 
 ### Rust区块链项目
 
@@ -445,24 +463,13 @@ https://bitsofco.de/setting-up-a-decentralised-website/
 
 https://github.com/blockstack/docs
 
-https://github.com/smartcontractkit
+[smartcontractkit](https://github.com/smartcontractkit) 智能合约组织
 
-https://github.com/ConsenSys/smart-contract-best-practices
+[smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices) 智能合约安全最佳实践
 
-https://github.com/TokenMarketNet/smart-contracts
+[smart-contracts](https://github.com/TokenMarketNet/smart-contracts) 用于证券和公用事业代币的以太坊智能合约
 
-https://github.com/ethereum/remix
-
-https://github.com/trufflesuite/truffle
-
-truffle插件：
-
-[truffle-plugin-verify](https://github.com/rkalis/truffle-plugin-verify) - 验证 Etherscan 上的特定地址的智能合约代码是否和本地相同
-[truffle -security](https://github.com/ConsenSys/truffle-security) - 对智能合约运行 MythX 安全分析。
-[truffle-contract-size](https://github.com/IoBuilders/truffle-contract-size) - 以千字节显示智能合约的大小。
-[truffle-plugin-abigen](https://github.com/ChainSafe/truffle-plugin-abigen) - 生成与 Geth 兼容的abigen数据，用于为以太坊合约构建 Golang 绑定
-[openzeppelin-upgrades](https://github.com/OpenZeppelin/openzeppelin-upgrades) 可升级合约插件
-[solidity-coverage](https://github.com/sc-forks/solidity-coverage) 检查测试的覆盖性。
+[remix-project](https://github.com/ethereum/remix-project) 用来开发、编译、部署智能合约的IDE
 
 
 ### 安全审计
