@@ -205,6 +205,23 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [Welch Labs](https://www.youtube.com/c/WelchLabsVideo)
 
+
+### 油管区块链
+
+[Web3 Foundation](https://www.youtube.com/channel/UClnw_bcNg4CAzF772qEtq4g) web3技术/分享频道
+
+[GoldSilver (w/ Mike Maloney)](https://www.youtube.com/channel/UCThv5tYUVaG4ZPA3p6EXZbQ) 区块链/金融频道
+
+[Decentralize Everything](https://youtu.be/WSN5BaCzsbo) 区块链创始人V神的访谈视频
+
+[Tim Berners-Lee: The next Web of open, linked data](https://youtu.be/OM6XIICm_qo) 蒂牧泊纳思-李 谈下一代网络
+
+[What Exactly is Web3?](https://www.youtube.com/watch?v=l44z35vabvA) Juan Benet的web3演讲
+
+[What is Hedera Hashgraph?](https://youtu.be/MzWiiOLv96I) Dr. Leemon Baird对话视频
+
+[Why Ethereum is Going to Change the World](https://youtu.be/lYJymzsdXmU) Joseph Lubin访谈视频：为什么区块链能改变世界
+
 ## 优秀文章
 ### 扫盲篇
 [学堂在线-区块链和加密数字货币](https://www.xuetangx.com/course/thu12021002731/10333144?channel=i.area.learn_title)
@@ -239,41 +256,72 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 ### 英文
 
-https://blockchainhub.net/web3-decentralized-web/
-
-https://diode.io/blockchain/Best-Resources-to-Learn-Web3-Blockchain-Decentralized-PKI-and-Ethereum-19262/
+#### 博客
 
 [learn-web3](https://web3.career/learn-web3) 学习web3的英文资料 【推荐】
 
 [useweb3](https://www.useweb3.xyz/) 专为web3开发者搭建学习的平台 英文 【推荐】
 
-https://github.com/DavidJohnstonCEO/DecentralizedApplications
+[inrupt 博客](https://www.inrupt.com/blog)
 
-https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/amp/
+[blockchainhub 博客](https://blockchainhub.net/)
 
-https://moralis.io/the-ultimate-guide-to-web3-what-is-web3/
+[diode区块链博客专区](https://diode.io/blog/tags.html#blockchain)
 
-https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer
+[30天成为web3开发者](https://blog.oliverjumpertz.dev/your-roadmap-to-becoming-a-web-30-developer)
 
-https://ethereum.org/fr/developers/tutorials/set-up-web3js-to-use-ethereum-in-javascript/
+[2022年web3和Solidity开发完全指引](https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/) 【推荐】
 
-https://vitto.cc/web3-and-solidity-smart-contracts-development-roadmap/
+[medium web3博客专栏](https://medium.com/theweb3stack)
 
-https://dev.to/pascavld/how-to-get-your-first-job-as-a-developer-web3-2021-developer-roadmap-and-more-4hn1
+[Web 3.0系列博客](https://blog.idrisolubisi.com/series/web-3)
 
-https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869
+#### 文章
 
-https://gitcoin.co/grants/3150/defi-developer-roadmap
+[Understanding the IPFS White Paper](https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html) 理解IPFS白皮书
 
-https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started
+[学习web3的最佳资源](https://diode.io/blockchain/Best-Resources-to-Learn-Web3-Blockchain-Decentralized-PKI-and-Ethereum-19262/)
 
-https://rattibha.com/thread/1439980837899055108?lang=en
+[去中心化应用的通用理论](https://github.com/DavidJohnstonCEO/DecentralizedApplications)
 
-https://betterprogramming.pub/transform-into-a-web3-crypto-nft-and-blockchain-development-expert-5-resources-8fdd11037eb8
+[作为一名开发者如何进入区块链、密码学、web3领域]https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/amp/
 
-https://townhall.hashnode.com/best-web3-resources
 
-https://dev.to/olanetsoft/web-30-a-developer-roadmap-guide-and-resources-to-get-started-45oa
+[web3终极指南](https://moralis.io/the-ultimate-guide-to-web3-what-is-web3/)
+
+[如何进入加密领域？2022年写给web3开发者的路线图](https://medium.com/theweb3stack/how-to-get-into-crypto-a-roadmap-for-a-web3-developer-4a5806f61869)
+
+[分布式 & web3开发者路线图](https://gitcoin.co/grants/3150/defi-developer-roadmap)
+
+[web3.0: 开发者入门的路线、指南、资源](https://blog.idrisolubisi.com/web-3-a-developer-roadmap-and-resources-to-get-started) 视频
+
+[学习web3的19关](https://rattibha.com/thread/1439980837899055108?lang=en)
+
+[进入web3, 加密数字货币，以太坊，区块链开发需要的五个工具](https://betterprogramming.pub/transform-into-a-web3-crypto-nft-and-blockchain-development-expert-5-resources-8fdd11037eb8)
+
+[web3最好的资源-区块链，加密数字货币，以太坊，DAOs和元宇宙](https://townhall.hashnode.com/best-web3-resources)
+
+#### 值得关注的推特
+
+[dabit3](https://twitter.com/dabit3)
+
+[imac2](https://twitter.com/imac2/status/1437761139774001170)
+
+[ravinwashere](https://twitter.com/ravinwashere)
+
+[mcgillmd921](https://twitter.com/mcgillmd921/status/1438200949386919941)
+
+[theankurtyagi](https://twitter.com/theankurtyagi/status/1438817080275517440)
+
+[catalinmpit](https://twitter.com/catalinmpit/status/1438427123379838976)
+
+[heyonuoha](https://twitter.com/heyonuoha/status/1438900496400592902)
+
+[inovatik](https://twitter.com/inovatik/status/1438760265105952771)
+
+[denicmarko](https://twitter.com/denicmarko/status/1438741539438698496)
+
+[makadiaharsh](https://twitter.com/makadiaharsh/status/1438144743767220227)
 
 #### 区块链
 
@@ -597,6 +645,8 @@ https://github.com/erowell/web3-learn
 
 ## 工具站点
 
+[web3 serveless](https://admin.moralis.io/) 无后台开发web3
+
 [以太坊ETH区块链浏览器-Tokenview](https://eth.tokenview.com/)
 
 [区块链网 NFTs](https://www.qklw.com/)
@@ -638,6 +688,10 @@ https://github.com/erowell/web3-learn
 [mirror](https://mirror.xyz/) 英文
 
 [medium](https://medium.com/) 英文
+
+[gitcoin](https://gitcoin.co/) 英文
+
+[hashnode web3专区](https://hashnode.com/n/web3)
 
 
 
