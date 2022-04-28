@@ -243,11 +243,9 @@ https://blockchainhub.net/web3-decentralized-web/
 
 https://diode.io/blockchain/Best-Resources-to-Learn-Web3-Blockchain-Decentralized-PKI-and-Ethereum-19262/
 
-https://web3.career/learn-web3
+[learn-web3](https://web3.career/learn-web3) 学习web3的英文资料 【推荐】
 
-https://www.useweb3.xyz/
-
-https://dev.to/cooper_kunz/educational-resources-for-web-3-0-1jmo
+[useweb3](https://www.useweb3.xyz/) 专为web3开发者搭建学习的平台 英文 【推荐】
 
 https://github.com/DavidJohnstonCEO/DecentralizedApplications
 
@@ -495,6 +493,14 @@ https://github.com/blockstack/docs
 [合约漏洞赏金平台 immunefi](https://immunefi.com/) 英文
 
 ### 白皮书
+
+[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 比特币白皮书：一种点对点的匿名货币交易系统
+
+[Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper) 以太坊白皮书： 下一代智能合约和去中心化应用平台
+
+[IPFS - Content Addressed, Versioned, P2P File System](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) IPFS - 内容寻址，版本化，P2P文件系统
+
+[Hedera: A Governing Council & Public Hashgraph Network](https://www.hedera.com/whitepaper/)
 
 https://github.com/xasos/awesome-decentralized-papers
 
