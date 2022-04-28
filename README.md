@@ -337,6 +337,8 @@ https://github.com/ethereum/remix-ide
 
 [Ganache](https://learnblockchain.cn/2017/11/20/whatiseth/) 以太坊本地开发调试的工具(TypeScript实现)
 
+[openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) 使用javascript的智能合约开发库
+
 ### Rust区块链项目
 
 [exonum](https://github.com/exonum/exonum) 使用Rust开发的许可链开发框架
@@ -405,17 +407,17 @@ https://paritytech.github.io/ink-docs/why-rust-for-smart-contracts/
 
 [Geth](https://geth.ethereum.org/docs/install-and-build/installing-geth) 开发以太坊时使用的客户端,提供了一个交互式命令控制台
 
-https://github.com/willitscale/learning-solidity
+[learning-solidity](https://github.com/willitscale/learning-solidity) 以太坊学习视频链接，youtobe
 
-https://github.com/smartcontractkit/full-blockchain-solidity-course-py
+[full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) 使用python学习区块链、智能合约开发的教程
 
 https://github.com/paulrberg/solidity-template
 
-https://github.com/bkrem/awesome-solidity
+[awesome-solidity](https://github.com/bkrem/awesome-solidity) 以太坊英文资料
 
 https://github.com/bancorprotocol/contracts-solidity
 
-https://github.com/OpenZeppelin/openzeppelin-contracts
+[openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) 使用javascript的智能合约开发库
 
 ### 去中心化DNS和网络
 
