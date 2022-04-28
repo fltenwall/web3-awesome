@@ -284,7 +284,7 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [去中心化应用的通用理论](https://github.com/DavidJohnstonCEO/DecentralizedApplications)
 
-[作为一名开发者如何进入区块链、密码学、web3领域]https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/amp/
+[作为一名开发者如何进入区块链、密码学、web3领域](https://www.freecodecamp.org/news/breaking-into-ethereum-crypto-web3-as-a-developer/amp/)
 
 
 [web3终极指南](https://moralis.io/the-ultimate-guide-to-web3-what-is-web3/)
