@@ -569,7 +569,7 @@ truffle插件：
 
 [the-dao白皮书](https://github.com/the-dao/whitepaper)
 
-[SingularityDAO白皮书](https://www.singularitydao.ai/file/2021/04/Platform-Whitepaper-3.pdf)
+[SingularityDAO白皮书](https://www.singularitydao.ai/file/2021/04/Platform-Whitepaper-3.pdf) [失效备份](https://github.com/fltenwall/web3-awesome/blob/main/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-The%20open%20source%20project/Platform-Whitepaper-3.pdf)
 
 ###  其他项目
 
