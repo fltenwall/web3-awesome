@@ -143,6 +143,8 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 ### 学术论文
 
+[去中心化系统的顶级论文](https://github.com/xasos/awesome-decentralized-papers)
+
 [中本聪比特币论文-英](https://bitcoin.org/bitcoin.pdf)
 
 [以太坊白皮书-支持多语言](https://goo.gl/XXZddT)
@@ -357,6 +359,9 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [以太坊开发工具及平台指南](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
+[DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) web3/区块链/去中心化金融开发路线图 【推荐】
+
+[如何赢在未来：互联网的第三次革命](https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf)
 
 ### JavaScript web3 项目
 
@@ -543,20 +548,9 @@ https://bitsofco.de/setting-up-a-decentralised-website/
 
 [Hedera: A Governing Council & Public Hashgraph Network](https://www.hedera.com/whitepaper/)
 
-https://github.com/xasos/awesome-decentralized-papers
+[Chainlink 2.0白皮书](https://chain.link/whitepaper)
 
-https://github.com/DavidJohnstonCEO/DecentralizedApplications
-
-https://github.com/OffcierCia/DeFi-Developer-Road-Map
-
-https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf
-
-https://chain.link/whitepaper
-
-https://github.com/the-dao/whitepaper
-
-https://whitepaperdatabase.com/category/whitepapers/
-
+[白皮书数据库](https://whitepaperdatabase.com/category/whitepapers/) 【推荐】
 ### DAOs
 
 https://ethereum.org/en/dao/
