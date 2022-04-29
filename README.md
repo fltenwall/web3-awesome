@@ -353,6 +353,13 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [为什么使用Rust编写智能合约](http://troubles.md/why-write-smart-contracts-in-rust/)
 
+[使用React, Solidity, 和 Web3.js开发一个Real-World dApp](https://betterprogramming.pub/blockchain-introduction-using-real-world-dapp-react-solidity-web3-js-546471419955)
+
+
+[以太坊开发部署完全去中心化Dapp终极指南](https://medium.com/ethereum-developers/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e)
+
+[使用web3.js开发以太坊DApp教程](https://www.moesif.com/blog/blockchain/ethereum/Tutorial-for-building-Ethereum-Dapp-with-Integrated-Error-Monitoring/)
+
 ## 开源项目
 
 ### 
@@ -361,7 +368,7 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [DeFi Developer Road Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) web3/区块链/去中心化金融开发路线图 【推荐】
 
-[如何赢在未来：互联网的第三次革命](https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf)
+[如何赢在未来：互联网的第三次革命](https://a16z.com/wp-content/uploads/2021/10/How-to-Win-the-Future-1.pdf) [失效备份](https://github.com/fltenwall/web3-awesome/blob/main/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A-Industrial%20Report/How-to-Win-the-Future-1.pdf)
 
 ### JavaScript web3 项目
 
@@ -548,7 +555,7 @@ https://bitsofco.de/setting-up-a-decentralised-website/
 
 [Hedera: A Governing Council & Public Hashgraph Network](https://www.hedera.com/whitepaper/)
 
-[Chainlink 2.0白皮书](https://chain.link/whitepaper)
+[Chainlink 2.0白皮书](https://chain.link/whitepaper) [失效备份](https://github.com/fltenwall/web3-awesome/blob/main/%E8%A1%8C%E4%B8%9A%E6%8A%A5%E5%91%8A-Industrial%20Report/whitepaper-v2.pdf)
 
 [白皮书数据库](https://whitepaperdatabase.com/category/whitepapers/) 【推荐】
 ### DAOs
@@ -565,17 +572,11 @@ https://www.singularitydao.ai/file/2021/04/Platform-Whitepaper-3.pdf
 
 ###  其他项目
 
-https://github.com/HelloZeroNet/ZeroNet
 
-https://github.com/mehrdadrad/radvpn
 
-https://betterprogramming.pub/blockchain-introduction-using-real-world-dapp-react-solidity-web3-js-546471419955
 
-https://medium.com/ethereum-developers/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e
 
-https://www.moesif.com/blog/blockchain/ethereum/Tutorial-for-building-Ethereum-Dapp-with-Integrated-Error-Monitoring/
 
-https://github.com/erowell/web3-learn
 
 ## 行业报告
 
@@ -755,6 +756,9 @@ https://github.com/erowell/web3-learn
 
 ### 网络通信
 
+[ZeroNet](https://github.com/HelloZeroNet/ZeroNet) 使用 Bitcoin 加密和 BitTorrent 网络
+
+[radvpn](https://github.com/mehrdadrad/radvpn) 去中心化的vpn
 #### IPFS
 
 [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) ipfs 伴侣
