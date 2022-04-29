@@ -143,7 +143,7 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 ### 学术论文
 
-[去中心化系统的顶级论文](https://github.com/xasos/awesome-decentralized-papers)
+[去中心化系统的顶级论文集](https://github.com/xasos/awesome-decentralized-papers)
 
 [中本聪比特币论文-英](https://bitcoin.org/bitcoin.pdf)
 
@@ -494,7 +494,7 @@ truffle插件：
 
 [为什么区块链上的DNS继HTTPS DNS之后的下一个步](https://diode.io/distributed-infrastructure/Why-DNS-on-Blockchain-is-the-next-step-after-DNS-over-HTTPS-19231/)  【推荐】
 
-[IPFS — 介绍一种点对点的去中心化文件系统](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf)  IPFS论文
+[IPFS — 介绍一种点对点的去中心化文件系统](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf)   [失效备份](https://github.com/fltenwall/web3-awesome/blob/main/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-The%20open%20source%20project/ipfs.draft3.pdf) IPFS论文
 
 
 [去中心化网络的艺术](https://hackernoon.com/a-state-of-the-art-of-decentralized-web-part-2-ea630917332a)
