@@ -396,6 +396,8 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [contracts-solidity](https://github.com/bancorprotocol/contracts-solidity)
 
+[Fortmatic](https://fortmatic.com/) 基于javascript的钱包
+
 ----------------------------------------------------------------
 
 [Truffle](https://learnblockchain.cn/docs/truffle/) [官网](https://trufflesuite.com/) 流行 DApp 开发框架(TypeScript实现)
@@ -509,7 +511,7 @@ truffle插件：
 
 [搭建去中心化网络: ENS + IPFS = dWeb](https://bitsofco.de/setting-up-a-decentralised-website/)
 
-### 智能合约
+### 智能合约 Smart Contracts 
 
 [stacks-network](https://github.com/stacks-network) 比特币智能合约
 
@@ -704,7 +706,42 @@ truffle插件：
 
 ## 相关技术
 
-### 密码学
+### 钱包/身份证明 Wallets/authentication
+
+[Metamask](https://docs.metamask.io/guide/#account-management) 以太坊钱包
+
+[Authereum](https://docs.authereum.com/) 已废弃
+
+[文章：结束与开始](https://medium.com/authereum/an-end-and-a-new-beginning-ae0e2e596e1b) 结束Authereum，开始Hop
+
+[Hop](https://hop.exchange/send) 支持以太坊 layer-2 生态系统
+
+[Fortmatic](https://fortmatic.com/) 基于javascript的钱包
+
+[重塑信任]()
+
+#### 去中心化身份 Decentralized Identifiers (DID)
+
+[W3C DID](https://www.w3.org/TR/did-core/)
+
+#### 可验证凭证 Verifiable Credentials
+
+[w3c 可验证凭证](https://www.w3.org/TR/vc-data-model/)
+
+### 密码学 General Cryptography
+
+#### 开源资料
+
+[Crypto 101 密码学教程 英文](https://www.crypto101.io/) 260页的pdf
+
+
+#### 优秀文章
+
+[安全的hash算法](https://brilliant.org/wiki/secure-hashing-algorithms/)
+
+[什么是PKI-公钥基础设施](https://www.ssh.com/academy/pki) 
+
+[分布式公钥基础设施 pdf](https://www.weboftrust.info/downloads/dpki.pdf)
 
 #### 视频课程
 
@@ -752,12 +789,22 @@ truffle插件：
 
 ### 面试通关
 
-### 网络通信
+### 去中心化网络 Decentralized file storage
 
 [ZeroNet](https://github.com/HelloZeroNet/ZeroNet) 使用 Bitcoin 加密和 BitTorrent 网络
 
 [radvpn](https://github.com/mehrdadrad/radvpn) 去中心化的vpn
+
+[Filecoin](https://docs.filecoin.io/about-filecoin/what-is-filecoin/) 点对点匿名文件存储系统
+
+[Gun](https://gun.eco/docs/API)
+
+[GunDB,一个JavaScript实现的图数据库](https://medium.com/@ajmeyghani/gundb-a-graph-database-in-javascript-3860a08d873c)
+
+
 #### IPFS
+
+[IPFS文档](https://docs.ipfs.io/concepts/what-is-ipfs/)
 
 [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) ipfs 伴侣
 
