@@ -284,6 +284,8 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [Web 3.0系列博客](https://blog.idrisolubisi.com/series/web-3)
 
+[consensys上的web3博客专栏](https://consensys.net/blog/)
+
 #### 文章
 
 [Understanding the IPFS White Paper](https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html) 理解IPFS白皮书
@@ -488,25 +490,24 @@ truffle插件：
 
 ### 去中心化DNS和网络
 
-Handshake, ENS and Decentralized Naming Services Explained (2018) https://hackernoon.com/handshake-ens-and-decentralized-naming-services-explained-2e69a1ca1313
+[握手、ENS和去中心化命名服务解释(2018)](https://hackernoon.com/handshake-ens-and-decentralized-naming-services-explained-2e69a1ca1313)
 
-Why DNS-on-Blockchain is the next step after DNS-over-HTTPS — our take on the issue: https://diode.io/distributed-infrastructure/Why-DNS-on-Blockchain-is-the-next-step-after-DNS-over-HTTPS-19231/
+[为什么区块链上的DNS继HTTPS DNS之后的下一个步](https://diode.io/distributed-infrastructure/Why-DNS-on-Blockchain-is-the-next-step-after-DNS-over-HTTPS-19231/)  【推荐】
 
-IPFS — introducing a peer-to-peer distributed file system https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf
+[IPFS — 介绍一种点对点的去中心化文件系统](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf)  IPFS论文
 
-Swarm: https://github.com/ethersphere/swarm
 
-State-of-the-art of decentralized web https://hackernoon.com/a-state-of-the-art-of-decentralized-web-part-2-ea630917332a
+[去中心化网络的艺术](https://hackernoon.com/a-state-of-the-art-of-decentralized-web-part-2-ea630917332a)
 
-https://towardsdatascience.com/decentralizing-your-website-f5bca765f9ed
+[让你的网络去中心化 使用 IPFS 和 ENS](https://towardsdatascience.com/decentralizing-your-website-f5bca765f9ed)
 
-https://decrypt.co/resources/how-to-use-ipfs-the-backbone-of-web3
+[如何使用IPFS-web3的支柱](https://decrypt.co/resources/how-to-use-ipfs-the-backbone-of-web3)
 
-https://docs.ipfs.io/
+[ipfs文档](https://docs.ipfs.io/)
 
-https://medium.com/pinata/web3-data-portability-through-ipfs-saved-hicetnunc-724e3df2948d
+[web3的数据如何通过IPFS保存到加密艺术平台HicEtNunc NFTs](https://medium.com/pinata/web3-data-portability-through-ipfs-saved-hicetnunc-724e3df2948d)
 
-https://bitsofco.de/setting-up-a-decentralised-website/
+[搭建去中心化网络: ENS + IPFS = dWeb](https://bitsofco.de/setting-up-a-decentralised-website/)
 
 ### 智能合约
 
@@ -560,20 +561,17 @@ https://bitsofco.de/setting-up-a-decentralised-website/
 [白皮书数据库](https://whitepaperdatabase.com/category/whitepapers/) 【推荐】
 ### DAOs
 
-https://ethereum.org/en/dao/
+[去中心化组织介绍DAO](https://ethereum.org/en/dao/)
 
-https://academy.binance.com/en/articles/decentralized-autonomous-organizations-daos-explained
+[解释什么是去中心化组织DAO](https://academy.binance.com/en/articles/decentralized-autonomous-organizations-daos-explained)
 
-https://consensys.net/blog/blockchain-explained/what-is-a-dao-and-how-do-they-work/
+[什么是DAO以及它是怎么运作的](https://consensys.net/blog/blockchain-explained/what-is-a-dao-and-how-do-they-work/)
 
-https://github.com/the-dao/whitepaper
+[the-dao白皮书](https://github.com/the-dao/whitepaper)
 
-https://www.singularitydao.ai/file/2021/04/Platform-Whitepaper-3.pdf
+[SingularityDAO白皮书]https://www.singularitydao.ai/file/2021/04/Platform-Whitepaper-3.pdf
 
 ###  其他项目
-
-
-
 
 
 
