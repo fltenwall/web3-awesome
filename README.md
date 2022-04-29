@@ -143,6 +143,8 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [以太坊白皮书-支持多语言](https://goo.gl/XXZddT)
 
+[Nick Szabo的论文集](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/index.html)
+
 
 ## 视频课程
 
@@ -325,25 +327,21 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 #### 区块链
 
-How does Ethereum work, anyway? — how it functions at a technical level, without complex math https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
+[以太坊是如何工作的?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
 
-The Ethereum Yellow Paper https://ethereum.github.io/yellowpaper/paper.pdf
+[智能合约的思考 1997年Nick Szabo所写](http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html)
 
-The idea of smart contracts http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/idea.html
+[”加密货币”的思考](https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d)
 
-Making Sense of “Cryptoeconomics” https://medium.com/l4-media/making-sense-of-cryptoeconomics-5edea77e4e8d
+[创建智能合约的流行编程语言](https://dev.to/abdulmaajid/top-programming-languages-to-create-smart-contracts-3n3f)
 
-https://dev.to/abdulmaajid/top-programming-languages-to-create-smart-contracts-3n3f
+[智能合约的开发语言](https://ethereum.org/en/developers/docs/smart-contracts/languages/)
 
-https://ethereum.org/en/developers/docs/smart-contracts/languages/
+[开发区块链的最佳语言](https://moralis.io/best-languages-for-blockchain-development-full-tutorial/)
 
-https://moralis.io/best-languages-for-blockchain-development-full-tutorial/
+[使用web3.js开发以太坊区块链](https://blog.logrocket.com/ethereum-blockchain-development-using-web3-js/)
 
-https://blog.logrocket.com/ethereum-blockchain-development-using-web3-js/
-
-https://diode.io/blockchain/Best-Resources-to-Learn-Web3-Blockchain-Decentralized-PKI-and-Ethereum-19262/
-
-https://github.com/Xel/Blockchain-stuff
+[区块链和智能合约学习资源](https://github.com/Xel/Blockchain-stuff)
 
 
 
@@ -543,6 +541,8 @@ https://github.com/blockstack/docs
 ### 白皮书
 
 [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 比特币白皮书：一种点对点的匿名货币交易系统
+
+[以太坊黄皮书](https://ethereum.github.io/yellowpaper/paper.pdf)
 
 [Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform](https://github.com/ethereum/wiki/wiki/White-Paper) 以太坊白皮书： 下一代智能合约和去中心化应用平台
 
