@@ -43,6 +43,10 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [以太坊设计与实现](https://learnblockchain.cn/books/geth/) 【进阶推荐】
 
+[Go语言的区块链开发指南 英文开源书](https://github.com/miguelmota/ethereum-development-with-go-book)
+
+[精通区块链 英文开源书](https://github.com/ethereumbook/ethereumbook)
+
 
 
 ### 出版书籍📚
@@ -343,22 +347,15 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [区块链和智能合约学习资源](https://github.com/Xel/Blockchain-stuff)
 
+[如何使用Rust开发和部署智能合约](https://learn.figment.io/tutorials/write-and-deploy-a-smart-contract-on-near)
 
+[为什么使用Rust编写智能合约](http://troubles.md/why-write-smart-contracts-in-rust/)
 
 ## 开源项目
 
 ### 
 
-https://ethereumjs.github.io/
-
-https://github.com/miguelmota/ethereum-development-with-go-book
-
-https://github.com/ethereumbook/ethereumbook
-
-https://github.com/ConsenSys/ethereum-developer-tools-list
-
-https://github.com/ethereum/remix-ide
-
+[以太坊开发工具及平台指南](https://github.com/ConsenSys/ethereum-developer-tools-list)
 
 
 ### JavaScript web3 项目
@@ -380,6 +377,10 @@ https://github.com/ethereum/remix-ide
 [Ganache](https://learnblockchain.cn/2017/11/20/whatiseth/) 以太坊本地开发调试的工具(TypeScript实现)
 
 [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) 使用javascript的智能合约开发库
+
+[EthereumJS](https://ethereumjs.github.io/)
+
+[contracts-solidity](https://github.com/bancorprotocol/contracts-solidity)
 
 ----------------------------------------------------------------
 
@@ -415,19 +416,13 @@ truffle插件：
 
 [substrate](https://github.com/paritytech/substrate) 用于构建分布式或去中心化的系统的框架
 
-https://github.com/OpenZeppelin/ethernaut
+[ethernaut](https://github.com/OpenZeppelin/ethernaut) 基于 Web3/Solidity 的战争游戏
 
-https://learn.figment.io/tutorials/write-and-deploy-a-smart-contract-on-near
+[Concordium](https://github.com/Concordium)
 
-http://troubles.md/why-write-smart-contracts-in-rust/
+[substrate](https://github.com/paritytech/substrate) 用于区块链创新的下一代框架
 
-https://github.com/Concordium/concordium-rust-smart-contracts
-
-https://medium.com/hackernoon/rust-smart-contracts-demos-challenges-28fc0a48ddd6
-
-https://github.com/perlin-network/smart-contract-rs
-
-https://paritytech.github.io/ink-docs/why-rust-for-smart-contracts/
+[substrate的文档](https://paritytech.github.io/ink-docs/)
 
 #### parity全家桶
 
@@ -461,6 +456,8 @@ https://paritytech.github.io/ink-docs/why-rust-for-smart-contracts/
 
 [Remix](https://remix.ethereum.org/) 用来开发、编译、部署智能合约的IDE，支持浏览器IDE
 
+[Remix IDE文档](https://github.com/ethereum/remix-ide)
+
 [solidity](https://github.com/ethereum/solidity) [官网](https://soliditylang.org/) 以太坊上开发智能合约的专用语言
 
 [Truffle](https://learnblockchain.cn/docs/truffle/) [官网](https://trufflesuite.com/) 流行 DApp 开发框架(TypeScript实现)
@@ -473,11 +470,7 @@ https://paritytech.github.io/ink-docs/why-rust-for-smart-contracts/
 
 [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) 使用python学习区块链、智能合约开发的教程
 
-https://github.com/paulrberg/solidity-template
-
 [awesome-solidity](https://github.com/bkrem/awesome-solidity) 以太坊英文资料
-
-https://github.com/bancorprotocol/contracts-solidity
 
 [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) 使用javascript的智能合约开发库
 
@@ -505,7 +498,7 @@ https://bitsofco.de/setting-up-a-decentralised-website/
 
 ### 智能合约
 
-https://github.com/blockstack/docs
+[stacks-network](https://github.com/stacks-network) 比特币智能合约
 
 [smartcontractkit](https://github.com/smartcontractkit) 智能合约组织
 
