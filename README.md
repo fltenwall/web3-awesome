@@ -718,7 +718,7 @@ truffle插件：
 
 [Fortmatic](https://fortmatic.com/) 基于javascript的钱包
 
-[重塑信任]()
+[重塑信任](https://github.com/fltenwall/web3-awesome/blob/main/%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/%E5%AF%86%E7%A0%81%E5%AD%A6/rebranding-web-of-trust.pdf)
 
 #### 去中心化身份 Decentralized Identifiers (DID)
 
@@ -732,7 +732,7 @@ truffle插件：
 
 #### 开源资料
 
-[Crypto 101 密码学教程 英文](https://www.crypto101.io/) 260页的pdf
+[Crypto 101 密码学教程 英文](https://www.crypto101.io/)  [失效备份](https://github.com/fltenwall/web3-awesome/blob/main/%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/%E5%AF%86%E7%A0%81%E5%AD%A6/Crypto101.pdf) 260页的pdf 
 
 
 #### 优秀文章
@@ -741,7 +741,7 @@ truffle插件：
 
 [什么是PKI-公钥基础设施](https://www.ssh.com/academy/pki) 
 
-[分布式公钥基础设施 pdf](https://www.weboftrust.info/downloads/dpki.pdf)
+[分布式公钥基础设施 pdf](https://www.weboftrust.info/downloads/dpki.pdf) [失效备份](https://github.com/fltenwall/web3-awesome/blob/main/%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/%E5%AF%86%E7%A0%81%E5%AD%A6/dpki.pdf)
 
 #### 视频课程
 
