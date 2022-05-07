@@ -311,6 +311,8 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [web3最好的资源-区块链，加密数字货币，以太坊，DAOs和元宇宙](https://townhall.hashnode.com/best-web3-resources)
 
+[使用Cloudflare开发Web3应用](https://blog.cloudflare.com/get-started-web3/) 支持中文
+
 #### 值得关注的推特
 
 [dabit3](https://twitter.com/dabit3)
@@ -397,6 +399,14 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 [contracts-solidity](https://github.com/bancorprotocol/contracts-solidity)
 
 [Fortmatic](https://fortmatic.com/) 基于javascript的钱包
+
+[CFWeb3](https://github.com/cloudflare/cfweb3) web3应用示例
+
+
+
+[hardhat](https://github.com/NomicFoundation/hardhat) 用于编译、测试、部署和调试以太坊软件的开发环境,帮助开发人员管理和自动化构建智能合约和dApp 过程中固有的重复性任务
+
+
 
 ----------------------------------------------------------------
 
