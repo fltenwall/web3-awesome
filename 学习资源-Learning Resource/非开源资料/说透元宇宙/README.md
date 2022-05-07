@@ -1,2 +1,2 @@
 
-[开篇词 | 为什么我们应关注元宇宙？]()
+[开篇词 | 为什么我们应关注元宇宙？](https://github.com/fltenwall/web3-awesome/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E9%9D%9E%E5%BC%80%E6%BA%90%E8%B5%84%E6%96%99/%E8%AF%B4%E9%80%8F%E5%85%83%E5%AE%87%E5%AE%99/%E5%BC%80%E7%AF%87%E8%AF%8D%20%7C%20%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E5%BA%94%E5%85%B3%E6%B3%A8%E5%85%83%E5%AE%87%E5%AE%99%EF%BC%9F.md)
