@@ -50,7 +50,7 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 ### 非开源在线资料
 
-[说透元宇宙 - 极客时间]()
+[说透元宇宙 - 极客时间](https://github.com/fltenwall/web3-awesome/blob/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E9%9D%9E%E5%BC%80%E6%BA%90%E8%B5%84%E6%96%99/%E8%AF%B4%E9%80%8F%E5%85%83%E5%AE%87%E5%AE%99/README.md)
 
 
 
