@@ -48,6 +48,13 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 [精通区块链 英文开源书](https://github.com/ethereumbook/ethereumbook)
 
 
+### 非开源在线资料
+
+[说透元宇宙 - 极客时间]()
+
+
+
+
 
 ### 出版书籍📚
 
