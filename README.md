@@ -54,6 +54,8 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [左耳听风 - 区块链](https://github.com/fltenwall/web3-awesome/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E9%9D%9E%E5%BC%80%E6%BA%90%E8%B5%84%E6%96%99/%E5%B7%A6%E8%80%B3%E5%90%AC%E9%A3%8E)
 
+[深入浅出区块链 - 极客时间]()
+
 [说透区块链 - 极客时间](https://github.com/fltenwall/web3-awesome/tree/main/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90-Learning%20Resource/%E9%9D%9E%E5%BC%80%E6%BA%90%E8%B5%84%E6%96%99/%E8%AF%B4%E9%80%8F%E5%8C%BA%E5%9D%97%E9%93%BE)
 
 
