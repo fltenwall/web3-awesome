@@ -195,6 +195,8 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [油管-比特币是如何运作的-英](https://www.youtube.com/watch?v=Lx9zgZCMqXE)
 
+[Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+
 ### 技术课程
 
 [Solidity 开发合集](https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA) Youtube
