@@ -209,6 +209,14 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [Blockchain Mastery Path](https://www.youtube.com/watch?v=6aF6p2VUORE&list=PLgPmWS2dQHW_CuryjGPkyH0PNXJ2B0hAk) 带你精通区块链，共 30 集
 
+[Web3.js · Ethereum Blockchain Developer Crash Course](https://www.youtube.com/watch?v=t3wM5903ty0&list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN) 带你学习web3.js
+
+[Web3 Tutorial](https://www.youtube.com/watch?v=2TV0r94p8OY&list=PLbbtODcOYIoFs0PDlTdxpEsZiyDR2q9aA) web3入门
+
+[web3.js full course](https://www.youtube.com/watch?v=h5nGnO_E7Xo&list=PLgPmWS2dQHW8Ev0iC0zyBLikUSV-A22rC) web3.js 入门
+
+[Complete Blockchain Development Course for Beginners in Hindi](https://www.youtube.com/watch?v=RkYVVC2vXho) 咖喱味的区块链开发教程视频
+
 ### 大学公开课
 
 [北京大学肖臻老师《区块链技术与应用》公开课](https://www.bilibili.com/video/BV1Vt411X7JF?spm_id_from=333.337.search-card.all.click) 【推荐】
