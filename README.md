@@ -835,6 +835,8 @@ truffle插件：
 
 [国外岗位](https://www.devjobsscanner.com/top-paid-solidity-jobs/)
 
+[香港区块链与web3岗位](https://hk.jobsdb.com/hk/search-jobs/blockchain/1)
+
 
 ### 面试通关
 
