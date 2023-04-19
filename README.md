@@ -205,7 +205,9 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ) javascript全栈区块链开发，32 小时
 
-[Free Blockchain Development Courses](https://www.youtube.com/watch?v=myascjqPnFc&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY)
+[Free Blockchain Development Courses](https://www.youtube.com/watch?v=myascjqPnFc&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY)  web3与区块链开发，共 44 集
+
+[Blockchain Mastery Path](https://www.youtube.com/watch?v=6aF6p2VUORE&list=PLgPmWS2dQHW_CuryjGPkyH0PNXJ2B0hAk) 带你精通区块链，共 30 集
 
 ### 大学公开课
 
