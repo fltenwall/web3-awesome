@@ -380,6 +380,8 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 
 [makadiaharsh](https://twitter.com/makadiaharsh/status/1438144743767220227)
 
+* [X-AlgoVision Pro](https://github.com/dogemos-josh/X-AlgoVision-Pro-Open-Source-Web3-Growth-Engine) - 推特 (X) 算法分析与 Web3 增长工具 / Open-source predictive engine for X algorithm.
+* 
 #### 区块链
 
 [以太坊是如何工作的?](https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369)
