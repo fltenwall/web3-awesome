@@ -6,7 +6,7 @@ web3百科全书👏🏻 打造 web3 全球第一中文资源
 ### 开源在线
 
 [区块链技术指南](https://yeasy.gitbook.io/blockchain_guide/02_overview/definition) 【推荐】
-
+- [RustChain](https://github.com/Scottcjn/Rustchain) - PoA区块链，基于硬件古老度的工作量证明，DePIN 方向
 [区块链钱包从入门到精通](https://github.tokenpocket.pro/BlockchainGuideSeries/) 【推荐】
 
 [廖雪峰-区块链教程](https://www.liaoxuefeng.com/wiki/1207298049439968)
