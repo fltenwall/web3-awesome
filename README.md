@@ -718,6 +718,8 @@ truffle插件：
 
 [ethscan 区块链浏览器](https://ethscan.org/)
 
+[Pending - Zero-Wallet EVM 交易卡顿与挂起诊断工具](https://pending.one/) 诊断以太坊、Polygon、Base 上因 Gas 飙升或 Nonce 阻塞导致的挂起交易，提供通俗易懂的根本原因与替换参数，无需连接钱包
+
 ## 社区交流
 
 [登链社区](https://learnblockchain.cn/)
