@@ -866,6 +866,8 @@ truffle插件：
 [IPFS文档](https://docs.ipfs.io/concepts/what-is-ipfs/)
 
 [ipfs-companion](https://github.com/ipfs-shipyard/ipfs-companion) ipfs 伴侣
+[HostDeFi](https://hostdefi.com) 免费代币安全扫描器：Solana 与 8 条 EVM 链的 A+–F 风险评级，免密钥 REST API 与 MCP 服务
+
 
 #### IPNS
 
