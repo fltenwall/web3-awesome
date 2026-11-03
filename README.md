@@ -718,6 +718,8 @@ truffle插件：
 
 [ethscan 区块链浏览器](https://ethscan.org/)
 
+[18btc 币圈工具导航](https://18btc.cc) 实测收录的币圈工具导航：行情数据、链上分析、DeFi 数据、钱包、安全工具与办公效率分类，中英双语
+
 ## 社区交流
 
 [登链社区](https://learnblockchain.cn/)
